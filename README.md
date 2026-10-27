@@ -124,3 +124,12 @@ gtkwave async_fifo.vcd
 
 ![Waveform](GTKWave.png)
 
+
+
+👩‍💻 Author
+Savitri | Shagun Jain | Shalini chaurasiya
+
+B.Tech — Electronics & Communication Engineering
+MNNIT Allahabad / Prayagraj
+
+
