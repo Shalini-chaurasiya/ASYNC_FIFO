@@ -126,7 +126,7 @@ gtkwave async_fifo.vcd
 
 
 
-👩‍💻 Author
+👩‍💻 Author : 
 Savitri | Shagun Jain | Shalini chaurasiya
 
 B.Tech — Electronics & Communication Engineering
